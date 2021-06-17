@@ -1,0 +1,7 @@
+Django~=3.0
+djangorestframework
+markdown
+django-filter
+django-rest-swagger
+djangorestframework_simplejwt
+
